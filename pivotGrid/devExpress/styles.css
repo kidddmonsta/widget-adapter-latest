@@ -1,0 +1,55 @@
+#gridContainer {
+    width: 1000px;
+    height: auto;
+}
+
+.options {
+    padding: 20px;
+    margin-top: 20px;
+    background-color: rgba(191, 191, 191, 0.15);
+}
+
+.caption {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.option {
+    margin-top: 10px;
+}
+
+.card-header {
+    background-color: #ffffff !important;
+}
+
+.card-block {
+    padding-bottom: 10px !important;
+}
+
+h6 {
+    font-size: 1rem !important;
+    font-weight: 500 !important;
+}
+
+.container {
+    padding: 0 !important;
+}
+
+#main {
+    overflow: hidden;
+}
+
+a:hover {
+    color: #4169e1;
+}
+
+body {
+    background-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #000;
+}
+
+a:link, a:visited {
+    color: #4682b4;
+}
